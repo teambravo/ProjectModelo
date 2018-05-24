@@ -1,6 +1,6 @@
 import time
 
-msg = "Hello World!"
+msg = "LMAO this is crazy"
 
 print (msg)
 
